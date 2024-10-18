@@ -42,7 +42,7 @@ function hasNvm() {
    // check for existance of nvm
    execSync(
      'nvm',
-     { stdio:[] } // don't care about output
+     { stdio: 'ignore' } // don't care about output
    );
   } catch (e) {
    // no nvm,

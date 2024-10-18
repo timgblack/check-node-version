@@ -1,8 +1,8 @@
 <a name="check-node-version"></a>
 # check-node-version
 [![NPM version](http://img.shields.io/npm/v/check-node-version.svg?style=flat-square)](https://www.npmjs.org/package/check-node-version)
-[![AppVeyor build status](https://img.shields.io/appveyor/ci/parshap/check-node-version/master.svg?style=flat-square)](https://ci.appveyor.com/project/parshap/check-node-version/branch/master)
-[![Travis build status](http://img.shields.io/travis/parshap/check-node-version/master.svg?style=flat-square)](https://travis-ci.org/parshap/check-node-version)
+[![AppVeyor build status](https://img.shields.io/appveyor/ci/timgblack/check-node-version/be-a-terminal-for-nvm-windows.svg?style=flat-square)](https://ci.appveyor.com/project/timgblack/check-node-version/branch/be-a-terminal-for-nvm-windows)
+[![Travis build status](http://img.shields.io/travis/timgblack/check-node-version/be-a-terminal-for-nvm-windows.svg?style=flat-square)](https://travis-ci.org/timgblack/check-node-version)
 
 Check installed versions of `node`, `npm`, `npx`, `yarn`, and `pnpm`.
 
